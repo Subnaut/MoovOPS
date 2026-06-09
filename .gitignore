@@ -1,0 +1,14 @@
+# Dépendances Node.js
+node_modules/
+package-lock.json
+
+# Variables d'environnement — contient les mots de passe, ne jamais versionner
+.env
+
+# Logs
+*.log
+logs/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
